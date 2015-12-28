@@ -5,7 +5,17 @@
     <link>http://silasdavis.net/</link>
     <language>en-us</language>
     <author>Alexander Ivanov</author>
-    <updated>0001-01-01 00:00:00 &#43;0000 UTC</updated>
+    <updated>2015-12-27 23:29:25 &#43;0000 UTC</updated>
+    
+    <item>
+      <title>Who is Silas Davis?</title>
+      <link>http://silasdavis.net/about/</link>
+      <pubDate>Sun, 27 Dec 2015 23:29:25 UTC</pubDate>
+      <author>Alexander Ivanov</author>
+      <guid>http://silasdavis.net/about/</guid>
+      <description>&lt;p&gt;Who &lt;em&gt;is&lt;/em&gt; Silas Davis?&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
