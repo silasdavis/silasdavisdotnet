@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://silasdavis.net/about/silas/</loc>
+    <lastmod>2017-07-19T15:50:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://silasdavis.net/about/</loc>
+    <lastmod>2017-07-19T15:50:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://silasdavis.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://silasdavis.net/</loc>
+    <lastmod>2017-07-19T15:50:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   

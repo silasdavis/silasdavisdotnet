@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Silas Davis</title>
-    <link>http://silasdavis.net/</link>
-    <description>Recent content on Silas Davis</description>
+    <title>Abouts on Silas Davis</title>
+    <link>http://silasdavis.net/about/</link>
+    <description>Recent content in Abouts on Silas Davis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 19 Jul 2017 15:50:55 +0100</lastBuildDate>
     
-	<atom:link href="http://silasdavis.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://silasdavis.net/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
