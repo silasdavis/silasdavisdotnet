@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on Silas Davis </title>
+    <title>Silas Davis</title>
     <link>http://silasdavis.net/</link>
-    <language>en-us</language>
-    <author>Alexander Ivanov</author>
-    <updated>2015-12-27 23:29:25 &#43;0000 UTC</updated>
+    <description>Recent content on Silas Davis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
     
-    <item>
-      <title>Who is Silas Davis?</title>
-      <link>http://silasdavis.net/about/</link>
-      <pubDate>Sun, 27 Dec 2015 23:29:25 UTC</pubDate>
-      <author>Alexander Ivanov</author>
-      <guid>http://silasdavis.net/about/</guid>
-      <description>&lt;p&gt;Who &lt;em&gt;is&lt;/em&gt; Silas Davis?&lt;/p&gt;
-</description>
-    </item>
+	<atom:link href="http://silasdavis.net/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
