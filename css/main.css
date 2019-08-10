@@ -433,7 +433,7 @@ html {
 
 body {
     background-color: #ffffff !important;
-    background: url("/images/guade2.jpg") 0px -120px no-repeat;
+    background: url("/images/brightwonk.jpg") 0px -120px repeat;
     padding: 0;
     color: #333;
     min-height: 100%;
@@ -670,12 +670,12 @@ input, textarea {
     -webkit-transition-property: border-color, box-shadow;
     -webkit-transition-duration: 0.15s, 0.15s;
     -webkit-transition-timing-function: ease-in-out, ease-in-out;
-    -webkit-transition-delay: initial, initial;
+    -webkit-transition-delay: initial;
     transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
     transition-property: border-color, box-shadow;
     transition-duration: 0.15s, 0.15s;
     transition-timing-function: ease-in-out, ease-in-out;
-    transition-delay: initial, initial
+    transition-delay: initial;
 }
 
 input textarea, textarea textarea {
